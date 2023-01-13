@@ -10,5 +10,5 @@ function createSquares(size) {
 }
 
 function changeColor () {
-
+    this.classList.add('hov')
 }
