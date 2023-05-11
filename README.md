@@ -1,2 +1,3 @@
 # Etch-a-Sketch
-<a href="https://rawcdn.githack.com/FalkoKa/Etch-a-Sketch/576eab97f4056f3042da24b37bd1e3acba55335a/index.html">Live Preview</a>
+<a href="https://falkoka.github.io/Etch-a-Sketch/">Live Preview</a>
+Fun drawing app from my early coding days! 
